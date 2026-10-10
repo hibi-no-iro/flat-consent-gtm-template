@@ -2,5 +2,5 @@ homepage: "https://flatconsent.com"
 documentation: "https://flatconsent.com/docs/google-and-microsoft/"
 versions:
   # Latest version first. The sha is the commit in the public template repository.
-  - sha: TBD
+  - sha: 60e1705f0afe54f059b57a2bcd3e02cd5bcbac7f
     changeNotes: Initial release.
