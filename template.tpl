@@ -208,7 +208,7 @@ const encodeUriComponent = require('encodeUriComponent');
 const makeInteger = require('makeInteger');
 
 // Google's developer ID for Flat Consent.
-const DEVELOPER_ID = 'dXXXXXX';
+const DEVELOPER_ID = 'dZDRhNz';
 
 const SIGNALS = ['ad_storage', 'analytics_storage', 'ad_user_data', 'ad_personalization'];
 const waitForUpdate = makeInteger(data.waitForUpdate) || 0;
@@ -499,7 +499,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "developer_id.dXXXXXX"
+                "string": "developer_id.dZDRhNz"
               },
               {
                 "type": 1,
