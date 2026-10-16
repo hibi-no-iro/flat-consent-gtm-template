@@ -2,5 +2,7 @@ homepage: "https://flatconsent.com"
 documentation: "https://flatconsent.com/docs/google-and-microsoft/"
 versions:
   # Latest version first. The sha is the commit in the public template repository.
+  - sha: 0a9458d146440fb6f3dbb07ad657928e02bf721d
+    changeNotes: Sets Flat Consent's Google developer ID.
   - sha: 60e1705f0afe54f059b57a2bcd3e02cd5bcbac7f
     changeNotes: Initial release.
